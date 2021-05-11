@@ -19,7 +19,7 @@ const data = {
             price: 990.38,
             brand: 'MSI',
             rating: 5.0,
-            numReviews: 10,
+            numReviews: 12,
             description: 'Chipset: NVIDIA GeForce RTX 3070',
         },
         {
@@ -30,7 +30,7 @@ const data = {
             price: 2500,
             brand: 'Zotac',
             rating: 3.0,
-            numReviews: 10,
+            numReviews: 30,
             description: 'Chipset: NVIDIA GeForce RTX 3090',
         },
         {
@@ -41,7 +41,7 @@ const data = {
             price: 680.50,
             brand: 'Asus',
             rating: 4.5,
-            numReviews: 10,
+            numReviews: 50,
             description: 'Chipset: NVIDIA GeForce RTX 2060',
         },
         {
@@ -52,7 +52,7 @@ const data = {
             price: 1449.79,
             brand: 'EVGA',
             rating: 4.0,
-            numReviews: 10,
+            numReviews: 5,
             description: 'Chipset: NVIDIA GeForce RTX 2080 Ti',
         },
         {
@@ -62,8 +62,8 @@ const data = {
             image: './images/RTX3060.jpg',
             price: 800,
             brand: 'Zotac',
-            rating: 4.0,
-            numReviews: 10,
+            rating: 3.5,
+            numReviews: 2,
             description: 'Chipset: NVIDIA GeForce RTX 3060',
         },
     ],
