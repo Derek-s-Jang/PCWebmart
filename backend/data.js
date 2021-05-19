@@ -17,7 +17,6 @@ const data = {
     ],
     products: [
         {
-            _id: '1',
             name: 'ASUS Dual GeForce RTX 3070',
             category: 'Graphics Card',
             image: '/images/RTX3070.jpg',
@@ -29,7 +28,6 @@ const data = {
             description: 'Chipset: NVIDIA GeForce RTX 3070',
         },
         {
-            _id: '2',
             name: 'MSI Gaming GeForce RTX 3070',
             category: 'Graphics Card',
             image: '/images/RTX3070(1).jpg',
@@ -41,7 +39,6 @@ const data = {
             description: 'Chipset: NVIDIA GeForce RTX 3070',
         },
         {
-            _id: '3',
             name: 'ZOTAC Gaming GeForce RTX 3090 Trinity',
             category: 'Graphics Card',
             image: '/images/RTX3090.jpg',
@@ -53,7 +50,6 @@ const data = {
             description: 'Chipset: NVIDIA GeForce RTX 3090',
         },
         {
-            _id: '4',
             name: 'ASUS GeForce RTX 2060 Overclocked',
             category: 'Graphics Card',
             image: '/images/RTX2060.jpg',
@@ -65,7 +61,6 @@ const data = {
             description: 'Chipset: NVIDIA GeForce RTX 2060',
         },
         {
-            _id: '5',
             name: 'EVGA GeForce RTX 2080 Ti',
             category: 'Graphics Card',
             image: '/images/RTX2080ti.jpg',
@@ -77,7 +72,6 @@ const data = {
             description: 'Chipset: NVIDIA GeForce RTX 2080 Ti',
         },
         {
-            _id: '6',
             name: 'ZOTAC Gaming GeForce RTX 3060 Twin Edge',
             category: 'Graphics Card',
             image: '/images/RTX3060.jpg',
