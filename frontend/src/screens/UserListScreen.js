@@ -64,6 +64,11 @@ export default function UserListScreen(props) {
                                         <td>{user.email}</td>
                                         <td>{user.isSeller ? 'Yes' : ' No'}</td>
                                         <td>{user.isAdmin ? 'Yes' : 'No'}</td>
+                                        <td>
+                                            <button type="button" className="small" onClick={() => props.history.push(`/profile`)}>
+                                                User Profile
+                                            </button>
+                                        </td>
                                     </tr>
                                 )
                             } else {
